@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.katieandjason.com.ico",
     "slug": "katie-and-jason",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 980,
-    "timeDay": 1279,
+    "uptimeYear": "99.96%",
+    "time": 973,
+    "timeDay": 682,
     "timeWeek": 819,
     "timeMonth": 912,
-    "timeYear": 980,
+    "timeYear": 973,
     "dailyMinutesDown": {
       "2024-10-01": 24
     }
