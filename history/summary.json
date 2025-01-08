@@ -4,7 +4,7 @@
     "url": "https://www.katieandjason.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.katieandjason.com.ico",
     "slug": "katie-and-jason",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
@@ -16,6 +16,7 @@
     "timeMonth": 904,
     "timeYear": 936,
     "dailyMinutesDown": {
+      "2025-01-08": 0,
       "2025-01-05": 30,
       "2024-11-29": 18,
       "2024-11-02": 19,
